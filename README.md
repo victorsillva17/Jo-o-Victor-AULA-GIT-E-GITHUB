@@ -1,2 +1,2 @@
 # João Victor AULA GIT E GITHUB
-Primeiro Repositorio da aula
+  Primeiro Repositório criado durante aula do curso em vídeo!
